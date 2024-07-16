@@ -1,0 +1,6 @@
+framework module Pods_ImageDescriptionApp {
+  umbrella header "Pods-ImageDescriptionApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
